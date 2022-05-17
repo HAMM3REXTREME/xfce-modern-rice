@@ -410,7 +410,7 @@ local/libksba 1.6.0-1
     Library for working with X.509 certificates, CMS data and related objects
 local/libldac 2.0.2.3-1
     LDAC Bluetooth encoder library
-local/libldap 2.6.1-1
+local/libldap 2.6.2-1
     Lightweight Directory Access Protocol (LDAP) client libraries
 local/libmfx 22.3.0-1
     Intel Media SDK dispatcher library

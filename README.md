@@ -1,6 +1,6 @@
 # xfce-modern-rice
 Nice and simple Xfce rice.
-Tested on Xfce 4.16
+Tested on Xfce 4.16.
 
 # Installation:
 Unzip it in the home directory, overwrite files as necessary. Preferably from tty.
@@ -12,4 +12,5 @@ Unzip it in the home directory, overwrite files as necessary. Preferably from tt
 - lightdm-slick-greeter
 
 ### Tip:
-It might be useful to install extra packages like `xfce4-goodies`, `lightdm-slick-greeter`, `gvfs`, `catfish`
+It might be useful to install extra packages like `xfce4-goodies`, `lightdm-slick-greeter`, `gvfs`, `catfish`.
+Customize `slick-greeter` by installing `lightdm-settings` from the AUR.
