@@ -2,8 +2,14 @@
 Nice and simple Xfce rice.
 Tested on Xfce 4.16 on Arch BTW.
 
+![Example Screenshot](https://github.com/HAMM3REXTREME/xfce-modern-rice/raw/main/screenshot-1.png)
+
 # Installation:
-Unzip it in the home directory, overwrite files as necessary. Preferably from tty.
+
+Install the prerequisites (refer next section) and clone this repo.  
+Copy files inside `config` folder to `~/.config`.
+You can overwrite files of an older/default config.  
+**Note:** It is highly recommended to move the files inside a tty and not a DE.  
 
 # Things used for rice:
 - Colloid GTK Theme
