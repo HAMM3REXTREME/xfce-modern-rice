@@ -20,7 +20,7 @@ Tested on Xfce 4.16 on Arch BTW.
     - [Elementary XFCE Icons](https://github.com/shimmerproject/elementary-xfce)
 
 # Installation:
-Install the prerequisites (refer previous section) and clone this repo.  
+Install the prerequisites (refer to the previous section) and clone this repo.  
 Copy files inside `config` folder to `~/.config`.
 You can overwrite files of an older/default config.  
-**Note:** It is highly recommended to move the files inside a tty and not a DE.  
+**Note:** It is highly recommended to move the files inside of a tty and not a DE.  
