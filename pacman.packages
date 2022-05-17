@@ -308,7 +308,7 @@ local/filesystem 2021.12.07-1
     Base Arch Linux files
 local/findutils 4.9.0-1 (base-devel)
     GNU utilities to locate files
-local/firefox 100.0-1
+local/firefox 100.0.1-1
     Standalone web browser from mozilla.org
 local/flac 1.3.4-2
     Free Lossless Audio Codec
@@ -356,9 +356,9 @@ local/gc 8.2.0-3
     A garbage collector for C and C++
 local/gcab 1.4-1
     A GObject library to create cabinet files
-local/gcc 12.1.0-1 (base-devel)
+local/gcc 12.1.0-2 (base-devel)
     The GNU Compiler Collection - C and C++ frontends
-local/gcc-libs 12.1.0-1
+local/gcc-libs 12.1.0-2
     Runtime libraries shipped by GCC
 local/gcolor3 2.4.0-4
     Simple color chooser written in GTK
@@ -708,7 +708,7 @@ local/jre-openjdk-headless 18.0.1.1.u2-1
     OpenJDK Java 18 headless runtime environment
 local/js78 78.15.0-4
     JavaScript interpreter and libraries - Version 78
-local/js91 91.8.0-1
+local/js91 91.9.0-1
     JavaScript interpreter and libraries - Version 91
 local/json-c 0.16-1
     A JSON implementation in C
@@ -796,7 +796,7 @@ local/lib32-freetype2 2.12.1-1
     Font rasterization library (32-bit)
 local/lib32-fribidi 1.0.12-1
     A Free Implementation of the Unicode Bidirectional Algorithm (32-bit)
-local/lib32-gcc-libs 12.1.0-1 (multilib-devel)
+local/lib32-gcc-libs 12.1.0-2 (multilib-devel)
     32-bit runtime libraries shipped by GCC
 local/lib32-gdk-pixbuf2 2.42.8-1
     An image loading library (32-bit)
@@ -902,7 +902,7 @@ local/lib32-libmodplug 0.8.9.0-4
     A MOD playing library
 local/lib32-libnl 3.6.0-1
     Library for applications dealing with netlink sockets (32 bit)
-local/lib32-libnm 1.36.4-1
+local/lib32-libnm 1.38.0-1
     NetworkManager client library (32-bit)
 local/lib32-libnsl 2.0.0-1
     Public client interface library for NIS(YP)
@@ -1418,7 +1418,7 @@ local/libnice 0.1.19-1
     An implementation of the IETF's draft ICE (for p2p UDP data streams)
 local/libnl 3.6.0-3
     Library for applications dealing with netlink sockets
-local/libnm 1.36.4-1
+local/libnm 1.38.0-1
     NetworkManager client library
 local/libnma 1.8.38-1
     NetworkManager GUI client library (GTK3)
@@ -1714,7 +1714,7 @@ local/licenses 20220125-1
     A set of common license files
 local/lilv 0.24.12-4
     A C library interface to the LV2 plug-in standard
-local/linux 5.17.7.arch1-1
+local/linux 5.17.7.arch1-2
     The Linux kernel and modules
 local/linux-api-headers 5.17.5-2
     Kernel headers sanitized for use in userspace
@@ -1722,7 +1722,7 @@ local/linux-firmware 20220509.b19cbdc-1
     Firmware files for Linux
 local/linux-firmware-whence 20220509.b19cbdc-1
     Firmware files for Linux - contains the WHENCE license file which documents the vendor license details
-local/linux-headers 5.17.7.arch1-1
+local/linux-headers 5.17.7.arch1-2
     Headers and scripts for building modules for the Linux kernel
 local/linux-lts 5.15.40-1
     The LTS Linux kernel and modules
@@ -1860,7 +1860,7 @@ local/netpbm 10.73.37-1
     A toolkit for manipulation of graphic images
 local/nettle 3.7.3-1
     A low-level cryptographic library
-local/networkmanager 1.36.4-1
+local/networkmanager 1.38.0-1
     Network connection manager and user applications
 local/newsboat 2.27-1
     An RSS/Atom feed reader for text terminals
@@ -2282,7 +2282,7 @@ local/qpdf 10.6.3-1
     QPDF: A Content-Preserving PDF Transformation System
 local/qrencode 4.1.1-1
     C library for encoding data in a QR Code symbol.
-local/qt5-base 5.15.4+kde+r135-1 (qt qt5)
+local/qt5-base 5.15.4+kde+r139-1 (qt qt5)
     A cross-platform application and UI framework
 local/qt5-declarative 5.15.4+kde+r17-1 (qt qt5)
     Classes for QML and JavaScript languages
@@ -2346,8 +2346,8 @@ local/ruby-optimist 3.0.1-2
     Commandline option parser for Ruby that just gets out of your way
 local/ruby-paint 2.2.1-2
     Ruby paint manages terminal colors and effects
-local/ruby-psych 4.0.3-2
-    
+local/ruby-psych 4.0.4-2
+    A YAML parser and emitter
 local/ruby-rainbow 3.0.0-6
     
 local/ruby-rdoc 6.4.0-2
@@ -2526,7 +2526,7 @@ local/texinfo 6.8-2 (base-devel)
     GNU documentation system for on-line information and printed output
 local/thin-provisioning-tools 0.9.0-1
     Suite of tools for manipulating the metadata of the dm-thin device-mapper target
-local/tiled 1.8.4-1
+local/tiled 1.8.5-1
     A general purpose tile map editor, built to be flexible and easy to use
 local/timidity++ 2.15.0-5 (pro-audio)
     A MIDI to WAVE converter and player
