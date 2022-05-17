@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-taskmanager" version="1.0">
+  <property name="interface" type="empty">
+    <property name="handle-position" type="int" value="201"/>
+    <property name="show-all-processes" type="bool" value="false"/>
+    <property name="show-application-icons" type="bool" value="true"/>
+    <property name="process-tree" type="bool" value="false"/>
+    <property name="full-command-line" type="bool" value="false"/>
+  </property>
+  <property name="window-width" type="int" value="852"/>
+  <property name="window-height" type="int" value="592"/>
+</channel>

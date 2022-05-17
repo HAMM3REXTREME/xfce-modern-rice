@@ -90,6 +90,8 @@ local/dbus-python 1.2.18-3
     Python bindings for DBUS
 local/dconf 0.40.0-1
     Configuration database system
+local/dconf-editor 3.38.3-1 (gnome-extra)
+    dconf Editor
 local/desktop-file-utils 0.26-2
     Command line utilities for working with desktop entries
 local/device-mapper 2.03.15-1
