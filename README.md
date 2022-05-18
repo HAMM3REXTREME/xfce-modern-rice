@@ -23,4 +23,4 @@ Tested on Xfce 4.16 on Arch BTW.
 Install the prerequisites (refer to the previous section) and clone this repo.  
 Copy files inside `config` folder to `~/.config`.
 You can overwrite files of an older/default config.  
-**Note:** It is highly recommended to move the files inside of a tty and not a DE.  
+**Note:** It is highly recommended to move the files while logged in a tty and not a DE.  
