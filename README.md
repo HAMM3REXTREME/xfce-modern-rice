@@ -2,8 +2,8 @@
 Nice and simple Xfce rice.
 Tested on Xfce 4.16 on Arch BTW.
 
-![Example Screenshot](https://github.com/HAMM3REXTREME/xfce-modern-rice/raw/main/screenshot-1.png)
-![Another Screenshot](https://github.com/HAMM3REXTREME/xfce-modern-rice/raw/main/screenshot-2.png)
+![Example Screenshot](https://github.com/HAMM3REXTREME/xfce-modern-rice/raw/master/screenshot-1.png)
+![Another Screenshot](https://github.com/HAMM3REXTREME/xfce-modern-rice/raw/master/screenshot-2.png)
 
 # Things used for rice:
 - Colloid GTK Theme
