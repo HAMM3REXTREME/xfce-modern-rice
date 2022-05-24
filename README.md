@@ -12,7 +12,7 @@ Tested on Xfce 4.16 on Arch BTW.
 - lightdm-slick-greeter
 
 ### Tips:
-- It might be useful to install extra packages like `xfce4-goodies`, `lightdm-slick-greeter`, `gvfs`, `catfish`.
+- It might be useful to install extra packages like `xfce4-goodies`, `pavucontrol`, `lightdm-slick-greeter`, `gvfs`, `catfish`.
 - Use `gsettings set org.gnome.desktop.interface color-scheme prefer-dark` to make GTK4 apps prefer dark theme.
 - Stuff to download (outside official repos):
     - [lightdm-settings](https://aur.archlinux.org/packages/lightdm-settings)
