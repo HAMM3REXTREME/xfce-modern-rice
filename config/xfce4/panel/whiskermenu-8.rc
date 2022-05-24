@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop
-recent=org.xfce.mousepad.desktop,xfce-mouse-settings.desktop,org.gnome.meld.desktop,xfce-settings-manager.desktop,xfce4-settings-editor.desktop,xfce4-file-manager.desktop,xfce-ui-settings.desktop,xfce4-web-browser.desktop,arandr.desktop,firefox.desktop
+recent=pavucontrol.desktop,xfce-ui-settings.desktop,xfce4-settings-editor.desktop,xfce-settings-manager.desktop,xfce4-terminal-emulator.desktop,xarchiver.desktop,xfce4-file-manager.desktop,org.gnome.FileRoller.desktop,xfce4-sensors.desktop,htop.desktop
 button-icon=org.xfce.panel.whiskermenu
 button-single-row=false
 show-button-title=false

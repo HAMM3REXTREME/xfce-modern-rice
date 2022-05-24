@@ -11,7 +11,7 @@
   <property name="search-compressed-files" type="bool" value="false"/>
   <property name="window-width" type="int" value="650"/>
   <property name="window-height" type="int" value="470"/>
-  <property name="window-x" type="int" value="635"/>
-  <property name="window-y" type="int" value="260"/>
+  <property name="window-x" type="int" value="802"/>
+  <property name="window-y" type="int" value="371"/>
   <property name="exclude-paths" type="string" value="/dev;~/.cache;~/.gvfs;"/>
 </channel>

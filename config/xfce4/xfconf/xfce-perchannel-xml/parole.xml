@@ -6,8 +6,15 @@
   </property>
   <property name="window" type="empty">
     <property name="maximized" type="bool" value="false"/>
+    <property name="width" type="int" value="760"/>
+    <property name="height" type="int" value="420"/>
   </property>
   <property name="audio" type="empty">
-    <property name="volume" type="int" value="50"/>
+    <property name="volume" type="int" value="100"/>
+    <property name="visualization-enabled" type="bool" value="false"/>
+    <property name="visualization-name" type="string" value="goom2k1"/>
+  </property>
+  <property name="folders" type="empty">
+    <property name="last-used-media" type="string" value="/usr/share/sounds/Pop/stereo/action"/>
   </property>
 </channel>

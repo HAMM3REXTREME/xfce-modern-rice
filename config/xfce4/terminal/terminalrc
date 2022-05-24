@@ -1,6 +1,6 @@
 [Configuration]
 MiscAlwaysShowTabs=FALSE
-MiscBell=FALSE
+MiscBell=TRUE
 MiscBellUrgent=FALSE
 MiscBordersDefault=TRUE
 MiscCursorBlinks=TRUE

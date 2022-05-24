@@ -59,6 +59,7 @@
       <property name="icon-size" type="int" value="0"/>
       <property name="single-row" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="heroic"/>
         <value type="string" value="thunar"/>
         <value type="string" value="notes"/>
         <value type="string" value="xfce4-power-manager"/>
@@ -108,7 +109,6 @@
     </property>
     <property name="plugin-1" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="chromium.instance1302;chromium.instance945;firefox.instance1094"/>
     </property>
   </property>
 </channel>
