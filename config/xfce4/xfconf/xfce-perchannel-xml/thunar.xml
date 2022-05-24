@@ -18,4 +18,5 @@
   <property name="tree-icon-emblems" type="bool" value="true"/>
   <property name="last-side-pane" type="string" value="ThunarShortcutsPane"/>
   <property name="last-location-bar" type="string" value="ThunarLocationEntry"/>
+  <property name="misc-thumbnail-draw-frames" type="bool" value="true"/>
 </channel>
