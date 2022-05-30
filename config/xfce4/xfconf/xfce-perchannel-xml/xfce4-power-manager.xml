@@ -8,6 +8,7 @@
     <property name="show-presentation-indicator" type="bool" value="true"/>
     <property name="lock-screen-suspend-hibernate" type="bool" value="true"/>
     <property name="power-button-action" type="uint" value="3"/>
-    <property name="inactivity-on-ac" type="uint" value="14"/>
+    <property name="inactivity-on-ac" type="uint" value="300"/>
+    <property name="general-notification" type="bool" value="true"/>
   </property>
 </channel>

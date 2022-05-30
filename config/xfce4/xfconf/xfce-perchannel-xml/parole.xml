@@ -15,6 +15,15 @@
     <property name="visualization-name" type="string" value="goom2k1"/>
   </property>
   <property name="folders" type="empty">
-    <property name="last-used-media" type="string" value="/usr/share/sounds/Pop/stereo/action"/>
+    <property name="last-used-media" type="string" value="/home/hemanya/Downloads"/>
+  </property>
+  <property name="parole" type="empty">
+    <property name="plugins" type="string" value=""/>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="tray" type="empty">
+      <property name="minimize-to-tray" type="bool" value="false"/>
+      <property name="remember-quit-action" type="bool" value="true"/>
+    </property>
   </property>
 </channel>
