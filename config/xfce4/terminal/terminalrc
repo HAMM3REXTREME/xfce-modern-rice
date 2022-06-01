@@ -1,7 +1,7 @@
 [Configuration]
 MiscAlwaysShowTabs=FALSE
 MiscBell=TRUE
-MiscBellUrgent=FALSE
+MiscBellUrgent=TRUE
 MiscBordersDefault=TRUE
 MiscCursorBlinks=TRUE
 MiscCursorShape=TERMINAL_CURSOR_SHAPE_BLOCK
