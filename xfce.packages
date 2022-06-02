@@ -58,6 +58,8 @@ local/boost-libs 1.78.0-2
     Free peer-reviewed portable C++ source libraries (runtime libraries)
 local/brotli 1.0.9-8
     Generic-purpose lossless compression algorithm
+local/btop 1.2.7-1
+    A monitor of system resources, bpytop ported to C++
 local/btrfs-progs 5.18-1
     Btrfs filesystem utilities
 local/bzip2 1.0.8-4
@@ -204,7 +206,7 @@ local/gnupg 2.2.35-2
     Complete and free implementation of the OpenPGP standard
 local/gnutls 3.7.6-1
     A library which provides a secure layer over a reliable transport layer
-local/go 2:1.18.2-1
+local/go 2:1.18.3-1
     Core compiler tools for the Go programming language
 local/gobject-introspection-runtime 1.72.0-1
     Introspection system for GObject-based libraries (runtime library)
@@ -674,6 +676,8 @@ local/make 4.3-3 (base-devel)
     GNU make utility to maintain groups of programs
 local/man-db 2.10.2-1
     A utility for reading man pages
+local/materia-gtk-theme 20210322-2
+    A Material Design theme for GNOME/GTK+ based desktop environments
 local/mdadm 4.2-2
     A tool for managing/monitoring Linux md device arrays, also known as Software RAID
 local/meld 3.20.4-2
@@ -682,7 +686,7 @@ local/mesa 22.1.0-1
     An open-source implementation of the OpenGL specification
 local/mesa-demos 8.5.0-1
     Mesa demos
-local/meson 0.62.1-1
+local/meson 0.62.2-1
     High productivity build system
 local/minizip 1:1.2.12-2
     Mini zip and unzip based on zlib
@@ -796,8 +800,6 @@ local/polkit 0.120-5
     Application development toolkit for controlling system-wide privileges
 local/polkit-gnome 0.105-9
     Legacy polkit authentication agent for GNOME
-local/pop-gtk-theme 5.4.5-3
-    System76 Pop GTK+ Theme
 local/popt 1.18-3
     A commandline option parser
 local/procps-ng 3.3.17-1
@@ -916,7 +918,7 @@ local/thunar-volman 4.16.0-1 (xfce4)
     Automatic management of removeable devices in Thunar
 local/tpm2-tss 3.2.0-1
     Implementation of the TCG Trusted Platform Module 2.0 Software Stack (TSS2)
-local/tracker3 3.3.0-2
+local/tracker3 3.3.1-1
     Desktop-neutral user information store, search tool and indexer
 local/ttf-liberation 2.1.5-1
     Font family which aims at metric compatibility with Arial, Times New Roman, and Courier New
