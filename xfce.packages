@@ -316,6 +316,8 @@ local/less 1:590-1
     A terminal based program for viewing text files
 local/libaio 0.3.113-1
     The Linux-native asynchronous I/O facility (aio) library
+local/libappindicator-gtk3 12.10.0.r296-2
+    Allow applications to extend a menu via Ayatana indicators in Unity, KDE or Systray (GTK+ 3 library)
 local/libarchive 3.6.1-1
     Multi-format archive and compression library
 local/libass 0.15.2-2
@@ -418,6 +420,8 @@ local/libiec61883 1.2.0-6
     A higher level API for streaming DV, MPEG-2 and audio over Linux IEEE 1394
 local/libimobiledevice 1.3.0-5
     Library that talks the protocols to support iPhone and iPod Touch devices on Linux
+local/libindicator-gtk3 12.10.1-10
+    Set of symbols and convenience functions for Ayatana indicators (GTK+ 3 library)
 local/libinih 55-2
     A simple .INI file parser written in C
 local/libinput 1.20.1-1
@@ -464,6 +468,10 @@ local/libnl 3.6.0-3
     Library for applications dealing with netlink sockets
 local/libnm 1.38.0-1
     NetworkManager client library
+local/libnma 1.8.38-1
+    NetworkManager GUI client library (GTK3)
+local/libnma-common 1.8.38-1
+    NetworkManager GUI client library (common files)
 local/libnotify 0.7.12-1
     Library for sending desktop notifications
 local/libnsl 2.0.0-2
@@ -718,12 +726,16 @@ local/neofetch 7.1.0-2
     A CLI system information tool written in BASH that supports displaying images.
 local/nettle 3.8-1
     A low-level cryptographic library
+local/network-manager-applet 1.26.0-1
+    Applet for managing network connections
 local/networkmanager 1.38.0-1
     Network connection manager and user applications
 local/nftables 1:1.0.3-1
     Netfilter tables userspace tools
 local/ninja 1.11.0-1
     Small build system with a focus on speed
+local/nm-connection-editor 1.26.0-1
+    NetworkManager GUI connection editor and widgets
 local/npth 1.6-3
     The new GNU portable threads library
 local/nspr 4.34-1
