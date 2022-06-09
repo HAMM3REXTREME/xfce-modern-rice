@@ -54,13 +54,13 @@ local/bison 3.8.2-4 (base-devel)
     The GNU general-purpose parser generator
 local/bluez-libs 5.64-2
     Deprecated libraries for the bluetooth protocol stack
-local/boost-libs 1.78.0-2
+local/boost-libs 1.78.0-3
     Free peer-reviewed portable C++ source libraries (runtime libraries)
 local/brotli 1.0.9-8
     Generic-purpose lossless compression algorithm
 local/btop 1.2.7-1
     A monitor of system resources, bpytop ported to C++
-local/btrfs-progs 5.18-1
+local/btrfs-progs 5.18.1-1
     Btrfs filesystem utilities
 local/bzip2 1.0.8-4
     A high-quality data compression program
@@ -188,7 +188,7 @@ local/glib-networking 1:2.72.0-1
     Network extensions for GLib
 local/glib2 2.72.2-1
     Low level core library
-local/glibc 2.35-5
+local/glibc 2.35-6
     GNU C Library
 local/glibmm 2.66.4-1
     C++ bindings for GLib
@@ -196,6 +196,8 @@ local/glu 9.0.2-3
     Mesa OpenGL utility library
 local/gmp 6.2.1-2
     A free library for arbitrary precision arithmetic
+local/gnome-keyring 1:42.1-1 (gnome)
+    Stores passwords and encryption keys
 local/gnome-menus 3.36.0-1 (gnome)
     GNOME menu specifications
 local/gnome-themes-extra 3.28+r6+g45b1d457-1
@@ -224,7 +226,7 @@ local/grep 3.7-1 (base-devel)
     A string search utility
 local/groff 1.22.4-7 (base-devel)
     GNU troff text-formatting system
-local/grub 2:2.06-5
+local/grub 2:2.06.r261.g2f4430cc0-1
     GNU GRand Unified Bootloader (2)
 local/gsettings-desktop-schemas 42.0-1
     Shared GSettings schemas for the desktop
@@ -302,7 +304,7 @@ local/keyutils 1.6.3-1
     Linux Key Management Utilities
 local/kmod 29-3
     Linux kernel module management tools and library
-local/krb5 1.19.3-1
+local/krb5 1.19.3-3
     The Kerberos network authentication system
 local/l-smash 2.14.5-2
     MP4 muxer and other tools
@@ -334,7 +336,7 @@ local/libblockdev 2.26-3
     A library for manipulating block devices
 local/libbluray 1.3.0-2
     Library to access Blu-Ray disks for video playback
-local/libbpf 0.7.0-1
+local/libbpf 0.8.0-1
     Library for loading eBPF programs and reading and manipulating eBPF objects from user-space
 local/libburn 1.5.4-1
     Library for reading, mastering and writing optical discs
@@ -360,7 +362,7 @@ local/libcolord 1.4.6-1
     System daemon for managing color devices (client library)
 local/libconfig 1.7.3-1
     C/C++ Configuration File Library
-local/libcups 1:2.4.2-1
+local/libcups 1:2.4.2-2
     The CUPS Printing System - client libraries and headers
 local/libdaemon 0.14-5
     Lightweight C library that eases the writing of UNIX daemons
@@ -384,6 +386,8 @@ local/libev 4.33-1
     A full-featured and high-performance event loop
 local/libevdev 1.12.1-1
     Wrapper library for evdev devices
+local/libevent 2.1.12-1
+    An event notification library
 local/libexif 0.6.24-1
     Library to parse an EXIF file and read the data from those tags
 local/libfdk-aac 2.0.2-1
@@ -400,7 +404,7 @@ local/libgee 0.20.5-2
     A collection library providing GObject-based interfaces and classes for commonly used data structures
 local/libglvnd 1.4.0-2
     The GL Vendor-Neutral Dispatch library
-local/libgpg-error 1.45-1
+local/libgpg-error 1.45-2
     Support library for libgcrypt
 local/libgtop 2.40.0+2+g31db82ef-2
     A library for collecting system monitoring data
@@ -460,7 +464,7 @@ local/libnewt 0.52.21-8
     Not Erik's Windowing Toolkit - text mode windowing with slang
 local/libnfnetlink 1.0.2-1
     Low-level library for netfilter related kernel/userspace communication
-local/libnftnl 1.2.1-1
+local/libnftnl 1.2.2-1
     Netfilter library providing interface to the nf_tables subsystem
 local/libnghttp2 1.47.0-1
     Framing layer of HTTP/2 is implemented as a reusable C library
@@ -548,7 +552,7 @@ local/libthai 0.1.29-1
     Thai language support routines
 local/libtheora 1.1.1-5
     An open video codec developed by the Xiph.org
-local/libtiff 4.3.0-2
+local/libtiff 4.4.0-1
     Library for manipulation of TIFF images
 local/libtirpc 1.3.2-1
     Transport Independent RPC library (SunRPC replacement)
@@ -568,6 +572,8 @@ local/libva 2.14.0-1
     Video Acceleration (VA) API for Linux
 local/libvdpau 1.5-1
     Nvidia VDPAU library
+local/libverto 0.3.2-4
+    Main event loop abstraction library
 local/libvisual 0.4.0-8
     Abstraction library that comes between applications and audio visualisation plugins
 local/libvorbis 1.3.7-3
@@ -580,7 +586,7 @@ local/libwebp 1.2.2-1
     WebP library and conversion tools
 local/libwnck3 40.1-1
     Library to manage X windows and workspaces (via pagers, tasklists, etc.)
-local/libx11 1.8-1
+local/libx11 1.8.1-2
     X11 client-side library
 local/libxau 1.0.9-4
     X11 authorisation library
@@ -656,9 +662,9 @@ local/lightdm-settings 1.5.7-1
     A configuration tool for the LightDM display manager
 local/lightdm-slick-greeter 1.5.7-1
     A slick-looking LightDM greeter
-local/lilv 0.24.12-4
+local/lilv 0.24.14-2
     A C library interface to the LV2 plug-in standard
-local/linux 5.18.1.arch1-1
+local/linux 5.18.2.arch1-1
     The Linux kernel and modules
 local/linux-api-headers 5.17.5-2
     Kernel headers sanitized for use in userspace
@@ -672,7 +678,7 @@ local/lm_sensors 1:3.6.0.r41.g31d1f125-1
     Collection of user space tools for general SMBus access and hardware monitoring
 local/lua 5.4.4-1
     Powerful lightweight programming language designed for extending applications
-local/lv2 1.18.2-1
+local/lv2 1.18.4-2
     Plugin standard for audio systems
 local/lvm2 2.03.16-1
     Logical Volume Manager 2 utilities
@@ -726,15 +732,15 @@ local/neofetch 7.1.0-2
     A CLI system information tool written in BASH that supports displaying images.
 local/nettle 3.8-1
     A low-level cryptographic library
-local/network-manager-applet 1.26.0-1
+local/network-manager-applet 1.28.0-1
     Applet for managing network connections
 local/networkmanager 1.38.0-1
     Network connection manager and user applications
-local/nftables 1:1.0.3-1
+local/nftables 1:1.0.4-1
     Netfilter tables userspace tools
 local/ninja 1.11.0-1
     Small build system with a focus on speed
-local/nm-connection-editor 1.26.0-1
+local/nm-connection-editor 1.28.0-1
     NetworkManager GUI connection editor and widgets
 local/npth 1.6-3
     The new GNU portable threads library
@@ -822,7 +828,7 @@ local/procps-ng 3.3.17-1
     Utilities for monitoring your system and its processes
 local/psmisc 23.5-1
     Miscellaneous procfs tools
-local/python 3.10.4-2
+local/python 3.10.5-1
     Next generation of the python high-level scripting language
 local/python-appdirs 1.4.4-6
     A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
@@ -872,7 +878,7 @@ local/sdl2 2.0.22-2
     A library for portable low-level access to a video framebuffer, audio output, mouse, and keyboard (Version 2)
 local/sed 4.8-1 (base-devel)
     GNU stream editor
-local/serd 0.30.10-1
+local/serd 0.30.12-2
     Lightweight C library for RDF syntax supporting reading/ writing Turtle and NTriples.
 local/shadow 4.11.1-1
     Password and account management tool suite with support for shadow files and PAM
@@ -884,7 +890,7 @@ local/smartmontools 7.3-1
     Control and monitor S.M.A.R.T. enabled ATA and SCSI Hard Drives
 local/snappy 1.1.9-2
     A fast compressor/decompressor library
-local/sord 0.16.8-1
+local/sord 0.16.10-2
     A lightweight C library for storing RDF data in memory
 local/sound-theme-freedesktop 0.8-5
     Freedesktop sound theme
@@ -896,13 +902,13 @@ local/spice-vdagent 0.22.1-1
     Spice agent for Linux guests
 local/sqlite 3.38.5-1
     A C library that implements an SQL database engine
-local/sratom 0.6.8-3
+local/sratom 0.6.10-3
     An LV2 Atom RDF serialisation library
 local/srt 1.4.4-1
     Secure Reliable Transport library
 local/startup-notification 0.12-7
     Monitor and display application startup
-local/sudo 1.9.10-1 (base-devel)
+local/sudo 1.9.11.p1-1 (base-devel)
     Give certain users the ability to run some commands as root
 local/svt-av1 0.9.0-2
     Scalable Video Technology AV1 encoder and decoder
@@ -936,6 +942,10 @@ local/tpm2-tss 3.2.0-1
     Implementation of the TCG Trusted Platform Module 2.0 Software Stack (TSS2)
 local/tracker3 3.3.1-1
     Desktop-neutral user information store, search tool and indexer
+local/ttf-dejavu 2.37+18+g9b5d1b2f-3
+    Font family based on the Bitstream Vera Fonts with a wider range of characters
+local/ttf-droid 20121017-10
+    General-purpose fonts released by Google as part of Android
 local/ttf-liberation 2.1.5-1
     Font family which aims at metric compatibility with Arial, Times New Roman, and Courier New
 local/tumbler 4.16.0-3 (xfce4)
@@ -950,7 +960,7 @@ local/ungoogled-chromium 102.0.5005.61-3
     A lightweight approach to removing Google web service dependency
 local/unzip 6.0-18
     For extracting and viewing files in .zip archives
-local/upower 0.99.18-1
+local/upower 0.99.19-1
     Abstraction for enumerating power devices, listening to device events and querying history and statistics
 local/usbmuxd 1.1.1-1
     USB Multiplex Daemon
@@ -962,9 +972,9 @@ local/v4l-utils 1.22.1-1
     Userspace tools and conversion library for Video 4 Linux
 local/vid.stab 1.1-3
     Video stabilization library
-local/vim 8.2.5046-1
+local/vim 8.2.5046-2
     Vi Improved, a highly configurable, improved version of the vi text editor
-local/vim-runtime 8.2.5046-1
+local/vim-runtime 8.2.5046-2
     Vi Improved, a highly configurable, improved version of the vi text editor (shared runtime)
 local/vmaf 2.3.1-1
     Perceptual video quality assessment algorithm based on multi-method fusion
@@ -1154,5 +1164,5 @@ local/zlib 1:1.2.12-2
     Compression library implementing the deflate compression method found in gzip and PKZIP
 local/zram-generator 1.1.2-1
     Systemd unit generator for zram devices
-local/zstd 1.5.2-3
+local/zstd 1.5.2-5
     Zstandard - Fast real-time compression algorithm
