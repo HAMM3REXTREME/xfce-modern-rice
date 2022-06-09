@@ -40,6 +40,8 @@
     <property name="show-add-remove-workspaces" type="bool" value="false"/>
     <property name="show-icons" type="bool" value="true"/>
     <property name="show-submenus" type="bool" value="false"/>
+    <property name="show-workspace-names" type="bool" value="true"/>
+    <property name="show-sticky-once" type="bool" value="false"/>
   </property>
   <property name="desktop-icons" type="empty">
     <property name="file-icons" type="empty">

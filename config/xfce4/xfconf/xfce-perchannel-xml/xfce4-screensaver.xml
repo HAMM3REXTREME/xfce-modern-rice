@@ -9,6 +9,7 @@
       </property>
     </property>
     <property name="fullscreen-inhibit" type="bool" value="true"/>
+    <property name="enabled" type="bool" value="true"/>
   </property>
   <property name="lock" type="empty">
     <property name="user-switching" type="empty">
