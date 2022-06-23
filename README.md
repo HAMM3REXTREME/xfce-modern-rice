@@ -4,23 +4,26 @@ Tested on Xfce 4.16 on Arch BTW.
 
 ![Example Screenshot](https://github.com/HAMM3REXTREME/xfce-modern-rice/raw/master/screenshot-1.png)
 ![Another Screenshot](https://github.com/HAMM3REXTREME/xfce-modern-rice/raw/master/screenshot-2.png)
+*Screenshots might be outdated*
 
-# Things used for rice:
+# Main things used for rice:
 - Colloid GTK Theme
 - Whisker Menu
-- Elementary XFCE Icons
+- Papirus Icon Theme
 - lightdm-slick-greeter
 
 ### Tips:
-- It might be useful to install extra packages like `xfce4-goodies`, `pavucontrol`, `lightdm-slick-greeter`, `gvfs`, `catfish`. Refer to `xfce.packages`, which is a dump of all the packages installed.
+- It might be useful to install extra packages like `xfce4-goodies`, `pavucontrol`, `lightdm-slick-greeter`, `gvfs`, `catfish`. Refer to `xfce.packages`, which is a dump of all the packages installed. Don't just blindly install all the packages there though.
 - Use `gsettings set org.gnome.desktop.interface color-scheme prefer-dark` to make GTK4 apps prefer dark theme.
 - Stuff to download (outside official repos):
     - [lightdm-settings](https://aur.archlinux.org/packages/lightdm-settings)
     - [Colloid GTK Theme](https://github.com/vinceliuice/Colloid-gtk-theme)
-    - [Elementary XFCE Icons](https://github.com/shimmerproject/elementary-xfce)
 
 # Installation:
 Install the prerequisites (refer to the previous section) and clone this repo.  
-Copy files inside `config` folder to `~/.config`.
-You can overwrite files of an older/default config.  
-**Note:** It is highly recommended to move the files while logged into a tty and not a DE.  
+Copy the content of the `config` folder to your `~/.config`.
+You can overwrite SOME files if needed. Review the changes first.  
+
+### Notes:
+- It is highly recommended to move the files while logged into a tty and not a DE for the changes to actually take effect.    
+- You might want to skip copying some highly specific config files like Keyboard layouts and Monitor config.
