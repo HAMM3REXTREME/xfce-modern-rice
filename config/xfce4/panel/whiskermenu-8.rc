@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop
-recent=org.xfce.Parole.desktop,org.gnome.meld.desktop,pavucontrol.desktop,xfce4-terminal-emulator.desktop,xfce4-file-manager.desktop,xfce4-notifyd-config.desktop,xfce4-accessibility-settings.desktop,xfce-ui-settings.desktop,xfce-session-settings.desktop,plank.desktop
+recent=xfce-ui-settings.desktop,xfce4-terminal-emulator.desktop,xfce4-web-browser.desktop,xfce4-notifyd-config.desktop,chromium.desktop,lightdm-settings.desktop,onboard.desktop,xfce-session-settings.desktop,xfce-keyboard-settings.desktop,xfce4-file-manager.desktop
 button-icon=org.xfce.panel.whiskermenu
 button-single-row=false
 show-button-title=false

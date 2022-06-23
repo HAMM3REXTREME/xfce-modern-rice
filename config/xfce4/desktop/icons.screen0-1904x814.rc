@@ -2,8 +2,8 @@
 4.10.3+=true
 
 [Trash]
-row=1
-col=0
+row=0
+col=17
 
 [/home/hemanya]
 row=0
