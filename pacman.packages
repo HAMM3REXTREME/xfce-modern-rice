@@ -10,7 +10,7 @@ local/adobe-source-code-pro-fonts 2.038ro+1.058it+1.018var-1
     Monospaced font family for user interface and coding environments
 local/adobe-source-sans-fonts 3.046-1
     Sans-serif font family for user interface environments
-local/adw-gtk3 2.0-1
+local/adw-gtk3 3.0-1
     The theme from libadwaita ported to GTK-3
 local/adwaita-icon-theme 42.0+r1+gc144c3d75-1
     GNOME standard icons
@@ -120,7 +120,7 @@ local/c-ares 1.18.1-1
     A C library for asynchronous DNS requests
 local/ca-certificates 20210603-1
     Common CA certificates (default providers)
-local/ca-certificates-mozilla 3.79-1
+local/ca-certificates-mozilla 3.80-1
     Mozilla's set of trusted CA certificates
 local/ca-certificates-utils 20210603-1
     Common CA certificates (utilities)
@@ -260,11 +260,13 @@ local/draco 1.5.1-2
     A library for compressing and decompressing 3D geometric meshes and point clouds
 local/dtc 1.6.1-4
     Device Tree Compiler
+local/duktape 2.7.0-2
+    Embeddable Javascript engine
 local/duplicity 0.8.22-1
     A utility for encrypted, bandwidth-efficient backups using the rsync algorithm
 local/dwarffortress 0.47.05-2
     A single-player fantasy game in which you build a dwarven outpost or play an adventurer in a randomly generated world
-local/e2fsprogs 1.46.5-3
+local/e2fsprogs 1.46.5-4
     Ext2/3/4 filesystem utilities
 local/edk2-ovmf 202205-1
     Firmware for Virtual Machines (x86_64, i686)
@@ -278,7 +280,7 @@ local/eglexternalplatform 1.1-2
     EGL External Platform interface
 local/ell 0.51-1
     Embedded Linux library
-local/embree 3.13.3-2
+local/embree 3.13.4-1
     Collection of high-performance ray tracing kernels
 local/enchant 2.3.3-1
     A wrapper library for generic spell checking
@@ -692,7 +694,7 @@ local/intel-ucode 20220510-1
     Microcode update files for Intel CPUs
 local/inter-font 3.19-2
     A typeface specially designed for user interfaces
-local/inxi 3.3.18.1-1
+local/inxi 3.3.19.1-1
     Full featured CLI system information tool
 local/iotop 0.6-9
     View I/O usage of processes
@@ -742,7 +744,7 @@ local/jsoncpp 1.9.5-2
     C++ library for interacting with JSON
 local/jxrlib 0.2.4-1
     Open source implementation of jpegxr
-local/kbd 2.5.0-2
+local/kbd 2.5.1-1
     Keytable files and keyboard utilities
 local/keepassxc 2.7.1-1
     Cross-platform community-driven port of Keepass password manager
@@ -940,11 +942,11 @@ local/lib32-libpng 1.6.37-3
     A collection of routines used to create PNG format graphics files (32-bit)
 local/lib32-libpng12 1.2.59-2
     A collection of routines used to create PNG format graphics files
-local/lib32-libproxy 0.4.17-2
-    A library that provides automatic proxy configuration management
+local/lib32-libproxy 0.4.18-1
+    Automatic proxy configuration management library (32-bit)
 local/lib32-libpsl 0.21.1-2
     Public Suffix List library (32-bit)
-local/lib32-libpulse 16.0-1
+local/lib32-libpulse 16.1-1
     A featureful, general-purpose sound server (32-bit client libraries)
 local/lib32-librsvg 2:2.54.4-1
     SVG rendering library (32-bit)
@@ -1044,7 +1046,7 @@ local/lib32-llvm-libs 13.0.1-1
     Low Level Virtual Machine (runtime library)(32-bit)
 local/lib32-lm_sensors 1:3.6.0.r41.g31d1f125-1
     Collection of user space tools for general SMBus access and hardware monitoring (32-bit)
-local/lib32-mesa 22.1.1-2
+local/lib32-mesa 22.1.2-1
     An open-source implementation of the OpenGL specification (32-bit)
 local/lib32-mpg123 1.29.3-1
     A console based real time MPEG Audio Player for Layer 1, 2 and 3 (32-bit)
@@ -1054,7 +1056,7 @@ local/lib32-nettle 3.8-1
     A low-level cryptographic library (32-bit)
 local/lib32-nspr 4.34-1
     Netscape Portable Runtime (32-bit)
-local/lib32-nss 3.79-1
+local/lib32-nss 3.80-1
     Network Security Services (32-bit)
 local/lib32-nvidia-utils 515.48.07-1
     NVIDIA drivers utilities (32-bit)
@@ -1062,7 +1064,7 @@ local/lib32-ocl-icd 2.3.1-1
     OpenCL ICD Bindings (32-bit)
 local/lib32-openal 1.22.0-1
     Cross-platform 3D audio library, software implementation (32-bit)
-local/lib32-openssl 1:1.1.1.n-1
+local/lib32-openssl 1:1.1.1.p-1
     The Open Source toolkit for Secure Sockets Layer and Transport Layer Security (32-bit)
 local/lib32-openssl-1.0 1.0.2.u-2
     The Open Source toolkit for Secure Sockets Layer and Transport Layer Security
@@ -1120,7 +1122,7 @@ local/lib32-vkd3d 1.3-1
     Direct3D 12 to Vulkan translation library By WineHQ
 local/lib32-vulkan-icd-loader 1.3.217-1
     Vulkan Installable Client Driver (ICD) Loader (32-bit)
-local/lib32-vulkan-intel 22.1.1-2
+local/lib32-vulkan-intel 22.1.2-1
     Intel's Vulkan mesa driver (32-bit)
 local/lib32-wayland 1.20.0-2
     A computer display server protocol
@@ -1326,7 +1328,7 @@ local/libice 1.0.10-4
     X11 Inter-Client Exchange library
 local/libid3tag 0.15.1b-11
     ID3 tag manipulation library
-local/libidn 1.38-1
+local/libidn 1.40-1
     Implementation of the Stringprep, Punycode and IDNA specifications
 local/libidn11 1.33-2
     Implementation of the Stringprep, Punycode and IDNA specifications
@@ -1504,11 +1506,11 @@ local/libportal 0.6-1
     GIO-style async APIs for most Flatpak portals
 local/libportal-gtk3 0.6-1
     GIO-style async APIs for most Flatpak portals - GTK 3 backend
-local/libproxy 0.4.17-7
+local/libproxy 0.4.18-1
     Automatic proxy configuration management library
 local/libpsl 0.21.1-1
     Public Suffix List library
-local/libpulse 16.0-1
+local/libpulse 16.1-1
     A featureful, general-purpose sound server (client library)
 local/libpwquality 1.4.4-5
     Library for password quality checking and generating random passwords
@@ -1744,19 +1746,19 @@ local/licenses 20220125-1
     A set of common license files
 local/lilv 0.24.14-2
     A C library interface to the LV2 plug-in standard
-local/linux 5.18.5.arch1-1
+local/linux 5.18.6.arch1-1
     The Linux kernel and modules
 local/linux-api-headers 5.17.5-2
     Kernel headers sanitized for use in userspace
-local/linux-firmware 20220509.b19cbdc-1
+local/linux-firmware 20220610.7b71b75-1
     Firmware files for Linux
-local/linux-firmware-whence 20220509.b19cbdc-1
+local/linux-firmware-whence 20220610.7b71b75-1
     Firmware files for Linux - contains the WHENCE license file which documents the vendor license details
-local/linux-headers 5.18.5.arch1-1
+local/linux-headers 5.18.6.arch1-1
     Headers and scripts for building modules for the Linux kernel
-local/linux-lts 5.15.48-1
+local/linux-lts 5.15.49-1
     The LTS Linux kernel and modules
-local/linux-lts-headers 5.15.48-1
+local/linux-lts-headers 5.15.49-1
     Headers and scripts for building modules for the LTS Linux kernel
 local/lld 13.0.1-1
     Linker from the LLVM project
@@ -1806,7 +1808,7 @@ local/mdadm 4.2-2
     A tool for managing/monitoring Linux md device arrays, also known as Software RAID
 local/meld 3.20.4-2
     Compare files, directories and working copies
-local/mesa 22.1.1-2
+local/mesa 22.1.2-1
     An open-source implementation of the OpenGL specification
 local/mesa-utils 8.5.0-2
     Essential Mesa utilities
@@ -1818,16 +1820,6 @@ local/minetest 5.5.1-1
     Multiplayer infinite-world block sandbox game
 local/minetest-common 5.5.1-1
     Common data files for minetest and minetest-server
-local/mingw-w64-binutils 2.38-3 (mingw-w64-toolchain mingw-w64)
-    Cross binutils for the MinGW-w64 cross-compiler
-local/mingw-w64-crt 10.0.0-1 (mingw-w64-toolchain mingw-w64)
-    MinGW-w64 CRT for Windows
-local/mingw-w64-gcc 12.1.0-1 (mingw-w64-toolchain mingw-w64)
-    Cross GCC for the MinGW-w64 cross-compiler
-local/mingw-w64-headers 10.0.0-1 (mingw-w64-toolchain mingw-w64)
-    MinGW-w64 headers for Windows
-local/mingw-w64-winpthreads 10.0.0-1 (mingw-w64-toolchain mingw-w64)
-    MinGW-w64 winpthreads library
 local/miniupnpc 2.2.3-1
     Small UPnP client library/tool to access Internet Gateway Devices
 local/minizip 1:1.2.12-2
@@ -1838,7 +1830,7 @@ local/mkinitcpio 31-2
     Modular initramfs image creation utility
 local/mkinitcpio-busybox 1.35.0-1
     Base initramfs tools
-local/mlt 7.6.0-2
+local/mlt 7.8.0-1
     An open source multimedia framework
 local/mobile-broadband-provider-info 20220511-1
     Network Management daemon
@@ -1904,27 +1896,27 @@ local/nm-connection-editor 1.28.0-1
     NetworkManager GUI connection editor and widgets
 local/nnn 4.5-1
     The fastest terminal file manager ever written.
-local/noto-fonts 20220502-3
+local/noto-fonts 20220607-1
     Google Noto TTF fonts
 local/noto-fonts-cjk 20220126-1
     Google Noto CJK fonts
 local/noto-fonts-emoji 20211101-1
     Google Noto emoji fonts
-local/noto-fonts-extra 20220502-3
+local/noto-fonts-extra 20220607-1
     Google Noto TTF fonts - additional variants
 local/npth 1.6-3
     The new GNU portable threads library
 local/nspr 4.34-1
     Netscape Portable Runtime
-local/nss 3.79-1
+local/nss 3.80-1
     Network Security Services
 local/ntfs-3g 2022.5.17-1
     NTFS filesystem driver and utilities
 local/numactl 2.0.14-3
     Simple NUMA policy support
-local/nvidia 515.48.07-11
+local/nvidia 515.48.07-12
     NVIDIA drivers for linux
-local/nvidia-lts 1:515.48.07-5
+local/nvidia-lts 1:515.48.07-6
     NVIDIA drivers for linux-lts
 local/nvidia-prime 1.0-4
     NVIDIA Prime Render Offload configuration and utilities
@@ -1968,7 +1960,7 @@ local/openshadinglanguage 1.11.17.0-3
     Advanced shading language for production GI renderers
 local/openssh 9.0p1-1
     Premier connectivity tool for remote login with the SSH protocol
-local/openssl 1.1.1.o-1
+local/openssl 1.1.1.p-1
     The Open Source toolkit for Secure Sockets Layer and Transport Layer Security
 local/openssl-1.0 1.0.2.u-1
     The Open Source toolkit for Secure Sockets Layer and Transport Layer Security
@@ -1976,7 +1968,7 @@ local/opensubdiv 3.4.4-11
     An Open-Source subdivision surface library
 local/openvdb 9.1.0-1
     A large suite of tools for the efficient storage and manipulation of sparse volumetric data discretized on three-dimensional grids
-local/openxr 1.0.23-1
+local/openxr 1.0.24-1
     An open standard for virtual reality and augmented reality platforms and devices
 local/opus 1.3.1-3
     Totally open, royalty-free, highly versatile audio codec
@@ -2502,9 +2494,9 @@ local/spdlog 1.10.0-1
     Very fast, header-only/compiled, C++ logging library
 local/speech-dispatcher 0.11.1-3
     High-level device independent layer for speech synthesis interface
-local/speex 1.2.0-3
+local/speex 1.2.1-1
     A free codec for free speech
-local/speexdsp 1.2.0-2
+local/speexdsp 1.2.1-1
     DSP library derived from Speex
 local/spice 0.15.0-1
     SPICE server
@@ -2528,7 +2520,7 @@ local/stfl 0.24-5
     Library implementing a curses-based widget set for text terminals
 local/stress 1.0.5-1
     A tool that stress tests your system (CPU, memory, I/O, disks)
-local/sudo 1.9.11.p2-1 (base-devel)
+local/sudo 1.9.11.p3-1 (base-devel)
     Give certain users the ability to run some commands as root
 local/suitesparse 5.12.0-1
     A collection of sparse matrix libraries
@@ -2572,7 +2564,7 @@ local/thin-provisioning-tools 0.9.0-1
     Suite of tools for manipulating the metadata of the dm-thin device-mapper target
 local/tilda 1.5.4-1
     A Gtk based drop down terminal for Linux and Unix
-local/tiled 1.8.5-1
+local/tiled 1.8.6-1
     A general purpose tile map editor, built to be flexible and easy to use
 local/timidity++ 2.15.0-5 (pro-audio)
     A MIDI to WAVE converter and player
@@ -2612,7 +2604,7 @@ local/ttf-bitstream-vera 1.10-14
     Bitstream Vera fonts.
 local/ttf-carlito 20130920-6
     Google's Carlito font
-local/ttf-croscore 20220502-3
+local/ttf-croscore 20220607-1
     Chrome OS core fonts
 local/ttf-dejavu 2.37+18+g9b5d1b2f-3
     Font family based on the Bitstream Vera Fonts with a wider range of characters
@@ -2634,7 +2626,7 @@ local/uchardet 0.0.7-1
     Encoding detector library ported from Mozilla
 local/udisks2 2.9.4-1
     Disk Management Service, version 2
-local/ungoogled-chromium 102.0.5005.115-2
+local/ungoogled-chromium 103.0.5060.53-1
     A lightweight approach to removing Google web service dependency
 local/unibilium 2.1.1-1
     A terminfo parsing library
@@ -2688,7 +2680,7 @@ local/vulkan-headers 1:1.3.217-1 (vulkan-devel)
     Vulkan header files
 local/vulkan-icd-loader 1.3.217-1
     Vulkan Installable Client Driver (ICD) Loader
-local/vulkan-intel 22.1.1-2
+local/vulkan-intel 22.1.2-1
     Intel's Vulkan mesa driver
 local/vulkan-tools 1.3.217-1 (vulkan-devel)
     Vulkan Utilities and Tools
