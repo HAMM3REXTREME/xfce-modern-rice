@@ -4,6 +4,6 @@
   <property name="last" type="empty">
     <property name="window-width" type="int" value="870"/>
     <property name="window-height" type="int" value="575"/>
-    <property name="filter-visible" type="bool" value="false"/>
+    <property name="filter-visible" type="bool" value="true"/>
   </property>
 </channel>

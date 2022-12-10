@@ -6,16 +6,16 @@
   </property>
   <property name="window" type="empty">
     <property name="maximized" type="bool" value="false"/>
-    <property name="width" type="int" value="720"/>
-    <property name="height" type="int" value="478"/>
+    <property name="width" type="int" value="774"/>
+    <property name="height" type="int" value="535"/>
   </property>
   <property name="audio" type="empty">
-    <property name="volume" type="int" value="100"/>
+    <property name="volume" type="int" value="80"/>
     <property name="visualization-enabled" type="bool" value="false"/>
     <property name="visualization-name" type="string" value="goom2k1"/>
   </property>
   <property name="folders" type="empty">
-    <property name="last-used-media" type="string" value="/home/hemanya/Downloads"/>
+    <property name="last-used-media" type="string" value="/home/hemanya/Music"/>
   </property>
   <property name="parole" type="empty">
     <property name="plugins" type="string" value="parole-mpris2.so"/>
@@ -25,5 +25,8 @@
       <property name="minimize-to-tray" type="bool" value="false"/>
       <property name="remember-quit-action" type="bool" value="true"/>
     </property>
+  </property>
+  <property name="playlist" type="empty">
+    <property name="repeat" type="bool" value="true"/>
   </property>
 </channel>
