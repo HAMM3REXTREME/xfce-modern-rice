@@ -4,7 +4,6 @@ Tested on Xfce 4.16 on Arch BTW.
 
 ![Example Screenshot](https://github.com/HAMM3REXTREME/xfce-modern-rice/raw/master/screenshot-1.png)
 ![Another Screenshot](https://github.com/HAMM3REXTREME/xfce-modern-rice/raw/master/screenshot-2.png)
-![Yet Another Screenshot](https://github.com/HAMM3REXTREME/xfce-modern-rice/raw/master/screenshot-3.png)
 *Screenshots might not be up to date*
 
 # Main things used for rice:
