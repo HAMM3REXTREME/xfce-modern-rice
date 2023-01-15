@@ -8,7 +8,11 @@
     <property name="show-presentation-indicator" type="bool" value="true"/>
     <property name="lock-screen-suspend-hibernate" type="bool" value="true"/>
     <property name="power-button-action" type="uint" value="3"/>
-    <property name="inactivity-on-ac" type="uint" value="350"/>
+    <property name="inactivity-on-ac" type="uint" value="14"/>
     <property name="general-notification" type="bool" value="true"/>
+    <property name="dpms-enabled" type="bool" value="true"/>
+    <property name="dpms-on-ac-off" type="uint" value="20"/>
+    <property name="blank-on-ac" type="int" value="10"/>
+    <property name="dpms-on-ac-sleep" type="uint" value="15"/>
   </property>
 </channel>

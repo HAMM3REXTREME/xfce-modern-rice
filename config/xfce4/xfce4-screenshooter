@@ -1,11 +1,11 @@
 app=/usr/bin/chromium
 last_user=
 last_extension=png
-screenshot_dir=file:/home/hemanya/Downloads
+screenshot_dir=file:/home/hemanya/Pictures
 enable_imgur_upload=true
 action=2
 delay=0
-region=3
+region=1
 show_mouse=1
 show_border=1
 show_in_folder=false

@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop
-recent=xfce-keyboard-settings.desktop,xfce4-web-browser.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop,org.gnome.baobab.desktop,dosbox.desktop,steam.desktop,chromium.desktop,firefox.desktop,blender.desktop
+recent=xfce4-dict.desktop,org.gnome.dspy.desktop,alacarte.desktop,org.gnome.Logs.desktop,xfce4-web-browser.desktop,com.obsproject.Studio.desktop,MultiMC-ultimate.desktop,transmission-gtk.desktop,xfce4-file-manager.desktop,org.xfce.mousepad.desktop
 button-icon=org.xfce.panel.whiskermenu
 button-single-row=false
 show-button-title=false
@@ -23,8 +23,8 @@ position-categories-horizontal=false
 stay-on-focus-out=false
 profile-shape=0
 confirm-session-command=true
-menu-width=710
-menu-height=753
+menu-width=708
+menu-height=777
 menu-opacity=95
 command-settings=xfce4-settings-manager
 show-command-settings=true

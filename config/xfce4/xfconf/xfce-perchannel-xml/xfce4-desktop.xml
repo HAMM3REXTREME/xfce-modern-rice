@@ -111,5 +111,6 @@
     <property name="file-icons" type="empty">
       <property name="show-filesystem" type="bool" value="false"/>
     </property>
+    <property name="style" type="int" value="2"/>
   </property>
 </channel>
