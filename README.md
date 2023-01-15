@@ -4,7 +4,7 @@ Tested on Xfce 4.18 on Arch BTW.
 
 ![Example Screenshot](https://github.com/HAMM3REXTREME/xfce-modern-rice/raw/master/screenshot-1.png)
 ![Another Screenshot](https://github.com/HAMM3REXTREME/xfce-modern-rice/raw/master/screenshot-2.png)
-*Screenshots may not not be up to date*
+*Screenshots might not not be up to date*
 
 # Main things used for rice:
 - Colloid GTK Theme
