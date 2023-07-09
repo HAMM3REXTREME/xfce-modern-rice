@@ -35,7 +35,6 @@
       <property name="&lt;Alt&gt;F2" type="string" value="xfce4-appfinder --collapsed">
         <property name="startup-notify" type="bool" value="true"/>
       </property>
-      <property name="&lt;Alt&gt;Print" type="string" value="xfce4-screenshooter -w"/>
       <property name="&lt;Super&gt;r" type="string" value="xfce4-appfinder -c">
         <property name="startup-notify" type="bool" value="true"/>
       </property>
@@ -62,6 +61,9 @@
       <property name="Calculator" type="string" value="qalculate-gtk"/>
       <property name="&lt;Primary&gt;Super_L" type="string" value="xfce4-popup-whiskermenu"/>
       <property name="&lt;Primary&gt;Print" type="string" value="xfce4-screenshooter -fc"/>
+      <property name="&lt;Primary&gt;&lt;Shift&gt;Print" type="string" value="xfce4-screenshooter -w -s /home/hemanya/Pictures/Screenshots/">
+        <property name="startup-notify" type="bool" value="true"/>
+      </property>
     </property>
   </property>
   <property name="xfwm4" type="empty">

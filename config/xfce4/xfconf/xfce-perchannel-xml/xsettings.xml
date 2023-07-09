@@ -14,16 +14,15 @@
     <property name="EnableInputFeedbackSounds" type="bool" value="true"/>
   </property>
   <property name="Xft" type="empty">
-    <property name="DPI" type="empty"/>
+    <property name="DPI" type="int" value="96"/>
     <property name="Antialias" type="empty"/>
-    <property name="Hinting" type="empty"/>
-    <property name="HintStyle" type="empty"/>
+    <property name="Hinting" type="int" value="1"/>
+    <property name="HintStyle" type="string" value="hintslight"/>
     <property name="RGBA" type="string" value="none"/>
   </property>
   <property name="Gtk" type="empty">
     <property name="CanChangeAccels" type="bool" value="false"/>
     <property name="ColorPalette" type="empty"/>
-    <property name="DialogsUseHeader" type="empty"/>
     <property name="FontName" type="string" value="Cantarell 11"/>
     <property name="MonospaceFontName" type="string" value="Source Code Pro 11"/>
     <property name="IconSizes" type="empty"/>
@@ -36,6 +35,7 @@
     <property name="CursorThemeName" type="string" value="default"/>
     <property name="CursorThemeSize" type="int" value="16"/>
     <property name="DecorationLayout" type="empty"/>
+    <property name="DialogsUseHeader" type="empty"/>
     <property name="TitlebarMiddleClick" type="empty"/>
   </property>
   <property name="Gdk" type="empty">
@@ -43,5 +43,6 @@
   </property>
   <property name="Xfce" type="empty">
     <property name="SyncThemes" type="bool" value="true"/>
+    <property name="LastCustomDPI" type="int" value="96"/>
   </property>
 </channel>

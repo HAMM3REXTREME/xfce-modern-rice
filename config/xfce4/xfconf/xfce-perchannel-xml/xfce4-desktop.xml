@@ -94,6 +94,28 @@
           <property name="last-image" type="string" value="/home/hemanya/Downloads/1920x1080-dark-archlinux2.png"/>
         </property>
       </property>
+      <property name="monitorDUMMY0" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="3"/>
+          <property name="last-image" type="string" value="/home/hemanya/Downloads/1920x1080-dark-archlinux2.png"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="3"/>
+          <property name="last-image" type="string" value="/home/hemanya/Downloads/1920x1080-dark-archlinux2.png"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="3"/>
+          <property name="last-image" type="string" value="/home/hemanya/Downloads/1920x1080-dark-archlinux2.png"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="3"/>
+          <property name="last-image" type="string" value="/home/hemanya/Downloads/1920x1080-dark-archlinux2.png"/>
+        </property>
+      </property>
     </property>
   </property>
   <property name="last" type="empty">

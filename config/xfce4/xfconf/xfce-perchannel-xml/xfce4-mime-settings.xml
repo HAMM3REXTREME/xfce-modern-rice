@@ -6,6 +6,6 @@
     <property name="window-height" type="int" value="678"/>
     <property name="mime-width" type="int" value="300"/>
     <property name="status-width" type="int" value="75"/>
-    <property name="default-width" type="int" value="626"/>
+    <property name="default-width" type="int" value="628"/>
   </property>
 </channel>

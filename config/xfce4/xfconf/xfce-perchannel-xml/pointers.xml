@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="pointers" version="1.0">
+  <property name="Touchscreen_passthrough_Pen_0" type="empty">
+    <property name="RightHanded" type="bool" value="true"/>
+    <property name="Threshold" type="int" value="1"/>
+    <property name="Acceleration" type="double" value="0.29999999999999999"/>
+  </property>
+  <property name="Logitech_Wireless_Mouse_PID4038" type="empty">
+    <property name="RightHanded" type="bool" value="true"/>
+    <property name="Threshold" type="int" value="1"/>
+    <property name="Acceleration" type="double" value="0.5"/>
+  </property>
+</channel>

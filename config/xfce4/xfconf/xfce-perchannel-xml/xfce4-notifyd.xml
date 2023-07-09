@@ -19,7 +19,6 @@
       <value type="string" value="Xfce volume control"/>
       <value type="string" value="Xfce4-notifyd settings"/>
       <value type="string" value="xfce4-settings-helper"/>
-      <value type="string" value="Xpra"/>
     </property>
   </property>
   <property name="primary-monitor" type="uint" value="0"/>
@@ -27,8 +26,11 @@
   <property name="log-level" type="uint" value="0"/>
   <property name="log-level-apps" type="uint" value="0"/>
   <property name="theme" type="string" value="Default"/>
-  <property name="initial-opacity" type="double" value="0.900000"/>
+  <property name="initial-opacity" type="double" value="0.90000000000000002"/>
   <property name="do-slideout" type="bool" value="false"/>
   <property name="do-not-disturb" type="bool" value="false"/>
   <property name="do-fadeout" type="bool" value="true"/>
+  <property name="log-max-size-enabled" type="bool" value="true"/>
+  <property name="date-time-format" type="int" value="0"/>
+  <property name="date-time-custom-format" type="string" value="%a %H:%M:%S"/>
 </channel>
