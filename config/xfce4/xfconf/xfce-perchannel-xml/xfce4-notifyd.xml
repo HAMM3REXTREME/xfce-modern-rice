@@ -28,9 +28,13 @@
   <property name="theme" type="string" value="Default"/>
   <property name="initial-opacity" type="double" value="0.90000000000000002"/>
   <property name="do-slideout" type="bool" value="false"/>
-  <property name="do-not-disturb" type="bool" value="false"/>
+  <property name="do-not-disturb" type="bool" value="true"/>
   <property name="do-fadeout" type="bool" value="true"/>
   <property name="log-max-size-enabled" type="bool" value="true"/>
   <property name="date-time-format" type="int" value="0"/>
   <property name="date-time-custom-format" type="string" value="%a %H:%M:%S"/>
+  <property name="plugin" type="empty">
+    <property name="log-icon-size" type="int" value="16"/>
+    <property name="hide-on-read" type="bool" value="false"/>
+  </property>
 </channel>

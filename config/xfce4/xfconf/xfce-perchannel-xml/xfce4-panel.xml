@@ -13,6 +13,9 @@
       <property name="size" type="uint" value="38"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="8"/>
+        <value type="int" value="17"/>
+        <value type="int" value="13"/>
+        <value type="int" value="12"/>
         <value type="int" value="2"/>
         <value type="int" value="3"/>
         <value type="int" value="6"/>
@@ -27,25 +30,28 @@
         <value type="int" value="16"/>
         <value type="int" value="5"/>
         <value type="int" value="15"/>
-        <value type="int" value="14"/>
         <value type="int" value="7"/>
       </property>
       <property name="length-adjust" type="bool" value="true"/>
       <property name="background-style" type="uint" value="0"/>
       <property name="leave-opacity" type="uint" value="100"/>
       <property name="enable-struts" type="bool" value="true"/>
+      <property name="enter-opacity" type="uint" value="100"/>
     </property>
   </property>
   <property name="plugins" type="empty">
     <property name="plugin-2" type="string" value="tasklist">
-      <property name="grouping" type="bool" value="true"/>
-      <property name="show-labels" type="bool" value="false"/>
+      <property name="grouping" type="bool" value="false"/>
+      <property name="show-labels" type="bool" value="true"/>
       <property name="flat-buttons" type="bool" value="true"/>
       <property name="show-handle" type="bool" value="false"/>
       <property name="show-wireframes" type="bool" value="false"/>
       <property name="sort-order" type="uint" value="4"/>
       <property name="window-scrolling" type="bool" value="true"/>
       <property name="show-tooltips" type="bool" value="true"/>
+      <property name="show-only-minimized" type="bool" value="false"/>
+      <property name="include-all-workspaces" type="bool" value="false"/>
+      <property name="middle-click" type="uint" value="3"/>
     </property>
     <property name="plugin-3" type="string" value="separator">
       <property name="expand" type="bool" value="true"/>
@@ -61,104 +67,26 @@
       <property name="icon-size" type="int" value="0"/>
       <property name="single-row" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
-        <value type="string" value="redshift-gtk"/>
-        <value type="string" value="sunshine"/>
-        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (86%)"/>
-        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (94%)"/>
-        <value type="string" value="steam"/>
-        <value type="string" value="configuring wi-fi network connection “raspberry”…"/>
-        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (81%)"/>
-        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (83%)"/>
-        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (43%)"/>
-        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (85%)"/>
-        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (78%)"/>
-        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (84%)"/>
-        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (88%)"/>
-        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (87%)"/>
-        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (62%)"/>
-        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (56%)"/>
-        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (58%)"/>
         <value type="string" value="wi-fi network connection “raspberry” active: raspberry (74%)"/>
-        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (75%)"/>
-        <value type="string" value="xpra"/>
-        <value type="string" value="nxrunner.bin"/>
-        <value type="string" value="networkmanager applet"/>
-        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (73%)"/>
-        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (66%)"/>
-        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (70%)"/>
-        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (63%)"/>
-        <value type="string" value="apprun.wrapped"/>
-        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (82%)"/>
-        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (77%)"/>
-        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (65%)"/>
-        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (68%)"/>
-        <value type="string" value="gpick"/>
-        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (72%)"/>
-        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (67%)"/>
-        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (69%)"/>
-        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (76%)"/>
-        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (79%)"/>
-        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (80%)"/>
-        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (71%)"/>
-        <value type="string" value="onboard"/>
-        <value type="string" value="ethernet network connection “wired connection 1” active"/>
-        <value type="string" value="parole"/>
-        <value type="string" value="heroic"/>
-        <value type="string" value="thunar"/>
-        <value type="string" value="notes"/>
-        <value type="string" value="xfce4-power-manager"/>
-        <value type="string" value="clipman"/>
+        <value type="string" value="sunshine"/>
       </property>
       <property name="symbolic-icons" type="bool" value="false"/>
       <property name="hide-new-items" type="bool" value="true"/>
       <property name="known-items" type="array">
         <value type="string" value="blueman"/>
         <value type="string" value="redshift"/>
-        <value type="string" value="Vorta"/>
-        <value type="string" value="steam"/>
-        <value type="string" value="chrome_status_icon_1"/>
-        <value type="string" value="AppRun.wrapped"/>
-        <value type="string" value="heroic1"/>
-        <value type="string" value="obs"/>
-        <value type="string" value="Screenkey"/>
-        <value type="string" value="corectrl"/>
         <value type="string" value="tray-id"/>
       </property>
       <property name="hidden-legacy-items" type="array">
+        <value type="string" value="sunshine"/>
       </property>
       <property name="hidden-items" type="array">
-        <value type="string" value="chrome_status_icon_1"/>
         <value type="string" value="redshift"/>
-        <value type="string" value="corectrl"/>
-        <value type="string" value="steam"/>
-        <value type="string" value="heroic1"/>
-        <value type="string" value="AppRun.wrapped"/>
-        <value type="string" value="obs"/>
-        <value type="string" value="Vorta"/>
         <value type="string" value="tray-id"/>
-        <value type="string" value="Screenkey"/>
       </property>
     </property>
     <property name="plugin-9" type="string" value="power-manager-plugin"/>
     <property name="plugin-10" type="string" value="notification-plugin"/>
-    <property name="plugin-14" type="string" value="actions">
-      <property name="appearance" type="uint" value="0"/>
-      <property name="button-title" type="uint" value="0"/>
-      <property name="items" type="array">
-        <value type="string" value="-lock-screen"/>
-        <value type="string" value="-switch-user"/>
-        <value type="string" value="-separator"/>
-        <value type="string" value="-suspend"/>
-        <value type="string" value="-hibernate"/>
-        <value type="string" value="-hybrid-sleep"/>
-        <value type="string" value="-separator"/>
-        <value type="string" value="-shutdown"/>
-        <value type="string" value="-restart"/>
-        <value type="string" value="-separator"/>
-        <value type="string" value="+logout"/>
-        <value type="string" value="-logout-dialog"/>
-      </property>
-    </property>
     <property name="plugin-7" type="string" value="showdesktop"/>
     <property name="plugin-8" type="string" value="whiskermenu"/>
     <property name="clipman" type="empty">
@@ -199,6 +127,21 @@
       <property name="digital-time-font" type="string" value="Cantarell 10"/>
       <property name="digital-date-font" type="string" value="Cantarell 8"/>
       <property name="mode" type="uint" value="2"/>
+    </property>
+    <property name="plugin-12" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16891986681.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-13" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16891986772.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-17" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16892014472.desktop"/>
+      </property>
     </property>
   </property>
 </channel>

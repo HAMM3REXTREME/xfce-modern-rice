@@ -5,17 +5,17 @@
     <property name="font" type="string" value="Sans 8"/>
   </property>
   <property name="window" type="empty">
-    <property name="maximized" type="bool" value="true"/>
-    <property name="width" type="int" value="1920"/>
-    <property name="height" type="int" value="1007"/>
+    <property name="maximized" type="bool" value="false"/>
+    <property name="width" type="int" value="1265"/>
+    <property name="height" type="int" value="523"/>
   </property>
   <property name="audio" type="empty">
-    <property name="volume" type="int" value="10"/>
+    <property name="volume" type="int" value="100"/>
     <property name="visualization-enabled" type="bool" value="true"/>
     <property name="visualization-name" type="string" value="spectrascope"/>
   </property>
   <property name="folders" type="empty">
-    <property name="last-used-media" type="string" value="/home/hemanya"/>
+    <property name="last-used-media" type="string" value="/home/hemanya/Downloads/Archives/3kliksphilip"/>
   </property>
   <property name="parole" type="empty">
     <property name="plugins" type="string" value="parole-mpris2.so"/>
