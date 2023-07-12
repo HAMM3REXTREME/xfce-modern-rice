@@ -34,7 +34,7 @@
     <property name="MenuBarAccel" type="empty"/>
     <property name="CursorThemeName" type="string" value="default"/>
     <property name="CursorThemeSize" type="int" value="16"/>
-    <property name="DecorationLayout" type="empty"/>
+    <property name="DecorationLayout" type="string" value=":minimize,maximize,close"/>
     <property name="DialogsUseHeader" type="empty"/>
     <property name="TitlebarMiddleClick" type="empty"/>
   </property>

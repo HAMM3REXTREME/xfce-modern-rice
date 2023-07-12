@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop
-recent=org.xfce.mousepad.desktop,org.gnome.Meld.desktop,org.gnome.dspy.desktop,ca.desrt.dconf-editor.desktop,xfce4-web-browser.desktop,xfce-wm-settings.desktop,xfce-ui-settings.desktop,xfce4-file-manager.desktop,org.xfce.Parole.desktop,org.gnome.Logs.desktop
+recent=xfce4-web-browser.desktop,org.xfce.mousepad.desktop,org.gnome.Meld.desktop,org.gnome.dspy.desktop,ca.desrt.dconf-editor.desktop,xfce-wm-settings.desktop,xfce-ui-settings.desktop,xfce4-file-manager.desktop,org.xfce.Parole.desktop,org.gnome.Logs.desktop
 button-icon=org.xfce.panel.whiskermenu
 button-single-row=false
 show-button-title=false
@@ -23,8 +23,8 @@ position-categories-horizontal=false
 stay-on-focus-out=false
 profile-shape=0
 confirm-session-command=true
-menu-width=584
-menu-height=837
+menu-width=621
+menu-height=892
 menu-opacity=99
 command-settings=xfce4-settings-manager
 show-command-settings=true
