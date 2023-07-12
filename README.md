@@ -7,7 +7,7 @@ Tested on Xfce 4.18 on Arch BTW.
 *Screenshots might not not be up to date*
 
 # Main things used for rice:
-- Colloid GTK Theme
+- Colloid GTK Theme *or* adw-gtk3
 - Whisker Menu
 - Papirus Icon Theme
 - lightdm-slick-greeter
