@@ -67,20 +67,23 @@
       <property name="icon-size" type="int" value="0"/>
       <property name="single-row" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
-        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (74%)"/>
+        <value type="string" value="redshift-gtk"/>
+        <value type="string" value="wi-fi network connection “raspberry” active: raspberry (70%)"/>
+        <value type="string" value="configuring wi-fi network connection “raspberry”…"/>
         <value type="string" value="sunshine"/>
       </property>
       <property name="symbolic-icons" type="bool" value="false"/>
-      <property name="hide-new-items" type="bool" value="true"/>
+      <property name="hide-new-items" type="bool" value="false"/>
       <property name="known-items" type="array">
         <value type="string" value="blueman"/>
         <value type="string" value="redshift"/>
+        <value type="string" value="steam"/>
         <value type="string" value="tray-id"/>
       </property>
       <property name="hidden-legacy-items" type="array">
-        <value type="string" value="sunshine"/>
       </property>
       <property name="hidden-items" type="array">
+        <value type="string" value="steam"/>
         <value type="string" value="redshift"/>
         <value type="string" value="tray-id"/>
       </property>
