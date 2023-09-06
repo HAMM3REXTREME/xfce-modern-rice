@@ -6,8 +6,8 @@
   </property>
   <property name="window" type="empty">
     <property name="maximized" type="bool" value="false"/>
-    <property name="width" type="int" value="1265"/>
-    <property name="height" type="int" value="523"/>
+    <property name="width" type="int" value="891"/>
+    <property name="height" type="int" value="588"/>
   </property>
   <property name="audio" type="empty">
     <property name="volume" type="int" value="100"/>
@@ -15,7 +15,7 @@
     <property name="visualization-name" type="string" value="spectrascope"/>
   </property>
   <property name="folders" type="empty">
-    <property name="last-used-media" type="string" value="/home/hemanya/Downloads/Archives/3kliksphilip"/>
+    <property name="last-used-media" type="string" value="/home/hemanya/Music/DOOM_Eternal_FLAC"/>
   </property>
   <property name="parole" type="empty">
     <property name="plugins" type="string" value="parole-mpris2.so"/>

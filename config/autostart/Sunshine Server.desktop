@@ -2,12 +2,12 @@
 Encoding=UTF-8
 Version=0.9.4
 Type=Application
-Name=Plank
-Comment=A minimalist dock
-Exec=plank
+Name=Sunshine Server
+Comment=Remote Desktop streaming
+Exec=sunshine
 OnlyShowIn=XFCE;
 RunHook=0
 StartupNotify=false
 Terminal=false
-Hidden=true
+Hidden=false
 

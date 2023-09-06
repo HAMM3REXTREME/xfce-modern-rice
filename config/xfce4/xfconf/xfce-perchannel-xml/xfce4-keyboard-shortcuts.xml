@@ -35,6 +35,7 @@
       <property name="&lt;Alt&gt;F2" type="string" value="xfce4-appfinder --collapsed">
         <property name="startup-notify" type="bool" value="true"/>
       </property>
+      <property name="&lt;Alt&gt;Print" type="string" value="xfce4-screenshooter -w"/>
       <property name="&lt;Super&gt;r" type="string" value="xfce4-appfinder -c">
         <property name="startup-notify" type="bool" value="true"/>
       </property>
@@ -47,6 +48,7 @@
       <property name="&lt;Primary&gt;Escape" type="string" value="xfdesktop --menu"/>
       <property name="&lt;Shift&gt;Print" type="string" value="xfce4-screenshooter -r"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;Delete" type="string" value="xfce4-session-logout"/>
+      <property name="&lt;Alt&gt;&lt;Super&gt;s" type="string" value="orca"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;t" type="string" value="exo-open --launch TerminalEmulator"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;f" type="string" value="thunar"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;l" type="string" value="xflock4"/>
@@ -58,12 +60,8 @@
       <property name="HomePage" type="string" value="exo-open --launch WebBrowser"/>
       <property name="XF86Display" type="string" value="xfce4-display-settings --minimal"/>
       <property name="override" type="bool" value="true"/>
+      <property name="Super_L" type="string" value="xfce4-popup-whiskermenu"/>
       <property name="Calculator" type="string" value="qalculate-gtk"/>
-      <property name="&lt;Primary&gt;Super_L" type="string" value="xfce4-popup-whiskermenu"/>
-      <property name="&lt;Primary&gt;Print" type="string" value="xfce4-screenshooter -fc"/>
-      <property name="&lt;Primary&gt;&lt;Shift&gt;Print" type="string" value="xfce4-screenshooter -w -s /home/hemanya/Pictures/Screenshots/">
-        <property name="startup-notify" type="bool" value="true"/>
-      </property>
     </property>
   </property>
   <property name="xfwm4" type="empty">

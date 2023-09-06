@@ -2,9 +2,9 @@
 Encoding=UTF-8
 Version=0.9.4
 Type=Application
-Name=Plank
-Comment=A minimalist dock
-Exec=plank
+Name=Syncthing
+Comment=File Sync
+Exec=syncthing --no-browser
 OnlyShowIn=XFCE;
 RunHook=0
 StartupNotify=false

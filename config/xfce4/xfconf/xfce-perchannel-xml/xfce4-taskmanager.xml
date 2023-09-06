@@ -9,6 +9,6 @@
     <property name="full-command-line" type="bool" value="false"/>
     <property name="show-filter" type="bool" value="false"/>
   </property>
-  <property name="window-width" type="int" value="1084"/>
-  <property name="window-height" type="int" value="712"/>
+  <property name="window-width" type="int" value="1611"/>
+  <property name="window-height" type="int" value="842"/>
 </channel>

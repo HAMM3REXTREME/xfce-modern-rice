@@ -7,6 +7,7 @@
       <value type="string" value="com.leinardi.gst"/>
       <value type="string" value="Fedora Media Writer"/>
       <value type="string" value="Firefox"/>
+      <value type="string" value="Guake"/>
       <value type="string" value="heroic"/>
       <value type="string" value="nm-applet"/>
       <value type="string" value="notify-send"/>
@@ -14,6 +15,7 @@
       <value type="string" value="org.gnome.baobab"/>
       <value type="string" value="org.xfce.Thunar"/>
       <value type="string" value="org.xfce.xfdesktop"/>
+      <value type="string" value="Studio"/>
       <value type="string" value="Transmission"/>
       <value type="string" value="vorta"/>
       <value type="string" value="Xfce volume control"/>
