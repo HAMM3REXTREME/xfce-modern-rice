@@ -36,6 +36,23 @@
         <property name="Y" type="int" value="0"/>
       </property>
     </property>
+    <property name="screen" type="string" value="screen">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value=""/>
+      <property name="Resolution" type="string" value="1920x1080"/>
+      <property name="RefreshRate" type="double" value="-nan"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="false"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1"/>
+        <property name="Y" type="double" value="1"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="0"/>
+        <property name="Y" type="int" value="0"/>
+      </property>
+    </property>
   </property>
   <property name="Fallback" type="empty">
     <property name="HDMI-A-0" type="string" value="GIGA-BYTE TECHNOLOGY CO., LTD. 27&quot;">
@@ -72,11 +89,29 @@
         <property name="Y" type="int" value="0"/>
       </property>
     </property>
+    <property name="screen" type="string" value="screen">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value=""/>
+      <property name="Resolution" type="string" value="1920x1080"/>
+      <property name="RefreshRate" type="double" value="-nan"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="false"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1"/>
+        <property name="Y" type="double" value="1"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="0"/>
+        <property name="Y" type="int" value="0"/>
+      </property>
+    </property>
   </property>
-  <property name="ActiveProfile" type="string" value="08cc50680045a9dddc62f72773f581b2ec050337"/>
+  <property name="ActiveProfile" type="string" value="ec0f10698082c93db66cc3bacc7c4262043d5c37"/>
   <property name="Notify" type="bool" value="true"/>
   <property name="IdentityPopups" type="bool" value="false"/>
-  <property name="08cc50680045a9dddc62f72773f581b2ec050337" type="string" value="Monitors">
+  <property name="AutoEnableProfiles" type="bool" value="true"/>
+  <property name="ec0f10698082c93db66cc3bacc7c4262043d5c37" type="string" value="Monitor">
     <property name="HDMI-A-0" type="string" value="GIGA-BYTE TECHNOLOGY CO., LTD. 27&quot;">
       <property name="Active" type="bool" value="true"/>
       <property name="EDID" type="string" value="b29eb48a40b3a7a3352995f11ce4c86e54ec9317"/>
@@ -95,5 +130,4 @@
       </property>
     </property>
   </property>
-  <property name="AutoEnableProfiles" type="bool" value="true"/>
 </channel>

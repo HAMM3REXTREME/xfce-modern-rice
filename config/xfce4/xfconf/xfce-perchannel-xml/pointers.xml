@@ -11,4 +11,10 @@
     <property name="Threshold" type="int" value="1"/>
     <property name="Acceleration" type="double" value="0.5"/>
   </property>
+  <property name="Wacom_Intuos_S_Pen_stylus" type="empty">
+    <property name="Mode" type="string" value="ABSOLUTE"/>
+  </property>
+  <property name="Wacom_Intuos_S_Pad_pad" type="empty">
+    <property name="Mode" type="string" value="ABSOLUTE"/>
+  </property>
 </channel>

@@ -18,4 +18,14 @@
       <property name="delay" type="int" value="10"/>
     </property>
   </property>
+  <property name="screensavers" type="empty">
+    <property name="xfce-personal-slideshow" type="empty">
+      <property name="location" type="string" value="/home/hemanya/Pictures/Images"/>
+      <property name="arguments" type="string" value="--location=/home/hemanya/Pictures/Images --background-color=#000000"/>
+    </property>
+    <property name="xfce-blank" type="empty">
+      <property name="dpms-off-after" type="double" value="60"/>
+      <property name="arguments" type="string" value=""/>
+    </property>
+  </property>
 </channel>

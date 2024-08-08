@@ -13,30 +13,35 @@
       <value type="string" value="notify-send"/>
       <value type="string" value="org.freedesktop.network-manager-applet"/>
       <value type="string" value="org.gnome.baobab"/>
+      <value type="string" value="org.gnome.Rhythmbox3"/>
       <value type="string" value="org.xfce.Thunar"/>
       <value type="string" value="org.xfce.xfdesktop"/>
+      <value type="string" value="QtScrcpy"/>
+      <value type="string" value="signal"/>
       <value type="string" value="Studio"/>
       <value type="string" value="Transmission"/>
+      <value type="string" value="tray-icon"/>
       <value type="string" value="vorta"/>
       <value type="string" value="Xfce volume control"/>
       <value type="string" value="Xfce4-notifyd settings"/>
       <value type="string" value="xfce4-settings-helper"/>
     </property>
   </property>
-  <property name="primary-monitor" type="uint" value="0"/>
-  <property name="notify-location" type="uint" value="2"/>
-  <property name="log-level" type="uint" value="0"/>
-  <property name="log-level-apps" type="uint" value="0"/>
   <property name="theme" type="string" value="Default"/>
   <property name="initial-opacity" type="double" value="0.90000000000000002"/>
   <property name="do-slideout" type="bool" value="false"/>
-  <property name="do-not-disturb" type="bool" value="true"/>
+  <property name="do-not-disturb" type="bool" value="false"/>
   <property name="do-fadeout" type="bool" value="true"/>
   <property name="log-max-size-enabled" type="bool" value="true"/>
-  <property name="date-time-format" type="int" value="0"/>
   <property name="date-time-custom-format" type="string" value="%a %H:%M:%S"/>
   <property name="plugin" type="empty">
     <property name="log-icon-size" type="int" value="16"/>
     <property name="hide-on-read" type="bool" value="false"/>
   </property>
+  <property name="show-notifications-on" type="string" value="active-monitor"/>
+  <property name="date-time-format" type="string" value="locale-default"/>
+  <property name="log-level" type="string" value="not-fully-shown"/>
+  <property name="log-level-apps" type="string" value="all"/>
+  <property name="notify-location" type="string" value="top-right"/>
+  <property name="notification-log" type="bool" value="true"/>
 </channel>

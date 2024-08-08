@@ -60,8 +60,10 @@
       <property name="HomePage" type="string" value="exo-open --launch WebBrowser"/>
       <property name="XF86Display" type="string" value="xfce4-display-settings --minimal"/>
       <property name="override" type="bool" value="true"/>
-      <property name="Super_L" type="string" value="xfce4-popup-whiskermenu"/>
       <property name="Calculator" type="string" value="qalculate-gtk"/>
+      <property name="&lt;Super&gt;Alt_L" type="string" value="xfce4-popup-whiskermenu"/>
+      <property name="&lt;Super&gt;c" type="string" value="/home/hemanya/Development/xfce-game-mode.sh on"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;c" type="string" value="/home/hemanya/Development/xfce-game-mode.sh off"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">

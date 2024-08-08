@@ -1,13 +1,13 @@
 app=/usr/bin/chromium
 last_user=
 last_extension=png
-screenshot_dir=file:/home/hemanya/Pictures
+screenshot_dir=file:/home/hemanya/Pictures/Screenshots
 enable_imgur_upload=true
-action=1
+action=2
 delay=2
-region=2
-show_mouse=1
+region=3
+show_mouse=0
 show_border=1
 show_in_folder=false
-custom_action_command=none
+custom_action_command=/usr/lib/xfce4/screenshooter/scripts/imgur-upload.sh %f %imgur_client_id
 
