@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.1" encoding="UTF-8"?>
 
 <channel name="displays" version="1.0">
   <property name="Default" type="empty">
@@ -110,7 +110,7 @@
   <property name="ActiveProfile" type="string" value="ec0f10698082c93db66cc3bacc7c4262043d5c37"/>
   <property name="Notify" type="bool" value="true"/>
   <property name="IdentityPopups" type="bool" value="false"/>
-  <property name="AutoEnableProfiles" type="bool" value="true"/>
+  <property name="AutoEnableProfiles" type="int" value="3"/>
   <property name="ec0f10698082c93db66cc3bacc7c4262043d5c37" type="string" value="Monitor">
     <property name="HDMI-A-0" type="string" value="GIGA-BYTE TECHNOLOGY CO., LTD. 27&quot;">
       <property name="Active" type="bool" value="true"/>

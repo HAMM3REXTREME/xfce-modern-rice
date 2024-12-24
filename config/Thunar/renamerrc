@@ -10,7 +10,7 @@ Start=1
 
 [ThunarSbrReplaceRenamer]
 CaseSensitive=FALSE
-Replacement=
-Pattern=link to\ 
+Replacement=Vehicles
+Pattern=common
 Regexp=FALSE
 

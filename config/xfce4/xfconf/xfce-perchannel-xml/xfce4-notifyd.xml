@@ -21,6 +21,7 @@
       <value type="string" value="Studio"/>
       <value type="string" value="Transmission"/>
       <value type="string" value="tray-icon"/>
+      <value type="string" value="vlc"/>
       <value type="string" value="vorta"/>
       <value type="string" value="Xfce volume control"/>
       <value type="string" value="Xfce4-notifyd settings"/>

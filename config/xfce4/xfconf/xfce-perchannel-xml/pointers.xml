@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.1" encoding="UTF-8"?>
 
 <channel name="pointers" version="1.0">
   <property name="Touchscreen_passthrough_Pen_0" type="empty">
@@ -16,5 +16,14 @@
   </property>
   <property name="Wacom_Intuos_S_Pad_pad" type="empty">
     <property name="Mode" type="string" value="ABSOLUTE"/>
+  </property>
+  <property name="Logitech_G203_LIGHTSYNC_Gaming_Mouse" type="empty">
+    <property name="Properties" type="empty">
+      <property name="libinput_Accel_Profile_Enabled" type="array">
+        <value type="int" value="1"/>
+        <value type="int" value="0"/>
+        <value type="int" value="0"/>
+      </property>
+    </property>
   </property>
 </channel>

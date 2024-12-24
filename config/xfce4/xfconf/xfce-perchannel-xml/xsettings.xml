@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.1" encoding="UTF-8"?>
 
 <channel name="xsettings" version="1.0">
   <property name="Net" type="empty">
@@ -27,8 +27,6 @@
     <property name="MonospaceFontName" type="string" value="Source Code Pro 11"/>
     <property name="IconSizes" type="empty"/>
     <property name="KeyThemeName" type="empty"/>
-    <property name="ToolbarStyle" type="empty"/>
-    <property name="ToolbarIconSize" type="empty"/>
     <property name="MenuImages" type="bool" value="true"/>
     <property name="ButtonImages" type="bool" value="false"/>
     <property name="MenuBarAccel" type="empty"/>
@@ -37,6 +35,8 @@
     <property name="DecorationLayout" type="string" value=":minimize,maximize,close"/>
     <property name="DialogsUseHeader" type="empty"/>
     <property name="TitlebarMiddleClick" type="empty"/>
+    <property name="ToolbarStyle" type="empty"/>
+    <property name="ToolbarIconSize" type="empty"/>
   </property>
   <property name="Gdk" type="empty">
     <property name="WindowScalingFactor" type="int" value="1"/>

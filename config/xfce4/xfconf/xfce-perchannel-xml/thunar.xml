@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.1" encoding="UTF-8"?>
 
 <channel name="thunar" version="1.0">
   <property name="last-view" type="string" value="ThunarIconView"/>
   <property name="last-icon-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_100_PERCENT"/>
   <property name="misc-single-click" type="bool" value="false"/>
-  <property name="last-window-width" type="int" value="1481"/>
-  <property name="last-window-height" type="int" value="799"/>
+  <property name="last-window-width" type="int" value="1706"/>
+  <property name="last-window-height" type="int" value="890"/>
   <property name="last-window-maximized" type="bool" value="false"/>
   <property name="last-separator-position" type="int" value="239"/>
   <property name="last-show-hidden" type="bool" value="false"/>
   <property name="shortcuts-icon-emblems" type="bool" value="true"/>
   <property name="shortcuts-icon-size" type="string" value="THUNAR_ICON_SIZE_16"/>
-  <property name="misc-directory-specific-settings" type="bool" value="true"/>
+  <property name="misc-directory-specific-settings" type="bool" value="false"/>
   <property name="last-sort-column" type="string" value="THUNAR_COLUMN_NAME"/>
   <property name="last-sort-order" type="string" value="GTK_SORT_ASCENDING"/>
   <property name="tree-icon-size" type="string" value="THUNAR_ICON_SIZE_16"/>
@@ -25,9 +25,13 @@
   </property>
   <property name="last-details-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_100_PERCENT"/>
   <property name="last-details-view-visible-columns" type="string" value="THUNAR_COLUMN_DATE_MODIFIED,THUNAR_COLUMN_NAME,THUNAR_COLUMN_SIZE,THUNAR_COLUMN_TYPE"/>
-  <property name="last-details-view-column-widths" type="string" value="50,50,152,50,50,515,50,50,333,50,50,76,50,165"/>
+  <property name="last-details-view-column-widths" type="string" value="50,50,189,50,50,1119,50,50,1157,50,50,58,50,62"/>
   <property name="last-splitview-separator-position" type="int" value="871"/>
   <property name="last-toolbar-item-order" type="string" value="0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17"/>
   <property name="last-toolbar-visible-buttons" type="string" value="0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0"/>
   <property name="misc-transfer-verify-file" type="string" value="THUNAR_VERIFY_FILE_MODE_REMOTE"/>
+  <property name="last-toolbar-items" type="string" value="menu:0,back:1,forward:1,open-parent:1,open-home:1,new-tab:1,new-window:0,toggle-split-view:0,undo:0,redo:0,zoom-out:0,zoom-in:0,zoom-reset:0,view-as-icons:0,view-as-detailed-list:0,view-as-compact-list:0,view-switcher:0,location-bar:1,reload:0,search:1,uca-action-1652216652651852-1:0"/>
+  <property name="misc-use-csd" type="bool" value="false"/>
+  <property name="misc-symbolic-icons-in-toolbar" type="bool" value="false"/>
+  <property name="misc-symbolic-icons-in-sidepane" type="bool" value="false"/>
 </channel>

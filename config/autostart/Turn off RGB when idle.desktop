@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.9.4
+Type=Application
+Name=Turn off RGB when idle
+Comment=Turns off RGB when idle, enable when input is detected.
+Exec=/home/hemanya/Documents/activity.sh
+OnlyShowIn=XFCE;
+RunHook=0
+StartupNotify=false
+Terminal=false
+Hidden=false
+
